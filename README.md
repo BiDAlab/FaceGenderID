@@ -12,4 +12,4 @@ This figure shows ROC curves for face verification showing AUC(Area under the cu
 
 If you use these pretrained models, make sure you cite the work:
 
-[1] Ruben Vera-Rodriguez, Marta Blazquez, Aythami Morales, Ester Gonzalez-Sosa, João C. Neves, and Hugo Proença, “FaceGenderID: Exploiting Gender Information in DCNNs Face Recognition Systems”, in Proc. CVPR workshop on Bias Estimation in Face Analytics, 2019.
+[1] Ruben Vera-Rodriguez, Marta Blazquez, Aythami Morales, Ester Gonzalez-Sosa, João C. Neves, and Hugo Proença, “[FaceGenderID: Exploiting Gender Information in DCNNs Face Recognition Systems](http://openaccess.thecvf.com/content_CVPRW_2019/papers/BEFA/Vera-Rodriguez_FaceGenderID_Exploiting_Gender_Information_in_DCNNs_Face_Recognition_Systems_CVPRW_2019_paper.pdf)”, in Proc. CVPR workshop on Bias Estimation in Face Analytics, 2019.
